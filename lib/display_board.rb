@@ -5,6 +5,7 @@ def display_board
   lines = [|]
   rows = [---------]
   
+
   display_board(board)
   
   
