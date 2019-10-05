@@ -2,6 +2,8 @@
 # out the current state.
 def display_board
   board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+  lines = [|]
+  rows = [---------]
   
   display_board(board)
   
